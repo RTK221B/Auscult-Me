@@ -34,7 +34,7 @@ AI based telemedicine system to analyse cardiovascular/lung sounds using a low-c
 
 ##  Technologies we used
 
->HTML |
->CSS |
->Java Script |
+>HTML | 
+>CSS | 
+>Java Script | 
 >Google Cloud Platform (GCP)
