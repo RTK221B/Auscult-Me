@@ -2,7 +2,8 @@
 
 AI based telemedicine system to analyse cardiovascular/lung sounds using a low-cost and highly efficient stethoscope mod to diagnose diseases through an application at home.
 ```
-![IMAGE](https://devfolio-prod.s3.ap-south-1.amazonaws.com/hackathons/27065920e3244ff58b8f302236880eba/projects/141b49872fa4415ba93c373acfaf5370/pic8opj54t5x.jpeg)
+![pic8opj54t5x](https://user-images.githubusercontent.com/19995215/94829595-4eab8a80-0428-11eb-8a8e-73c4321b059e.jpeg)
+
 ```
 
 # The problem Can **Ascult-Me** solves
@@ -35,7 +36,7 @@ AI based telemedicine system to analyse cardiovascular/lung sounds using a low-c
 
 ##  Technologies we used
 
->HTML
->CSS
->Java Script 
+>HTML |
+>CSS |
+>Java Script |
 >Google Cloud Platform (GCP)
