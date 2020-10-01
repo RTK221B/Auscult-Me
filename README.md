@@ -1,6 +1,11 @@
 # Welcome to [Auscult-Me](https://github.com/ishwariyjoshi/Auscult-Me)!
 
 AI based telemedicine system to analyse cardiovascular/lung sounds using a low-cost and highly efficient stethoscope mod to diagnose diseases through an application at home.
+<<<<<<< HEAD
+=======
+```
+![pic8opj54t5x](https://user-images.githubusercontent.com/19995215/94829595-4eab8a80-0428-11eb-8a8e-73c4321b059e.png)
+>>>>>>> aac2809046472d3fcb7459c4b597ae0a0e6359e3
 
 ![image](Auscult-Me/image.png)
 
